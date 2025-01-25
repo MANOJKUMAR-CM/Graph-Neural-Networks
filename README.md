@@ -68,7 +68,7 @@ If you have questions, suggestions, or just want to connect, feel free to reach 
 
 - **Name**: Manoj Kumar.CM  
 - **Email**: [manoj.kumar@dsai.iitm.ac.in]  
-- **GitHub Profile**: [Your GitHub Link](https://github.com/MANOJKUMAR-CM)
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)
 
 ---
 
