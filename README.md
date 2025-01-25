@@ -23,8 +23,6 @@ The repository will be organized into the following sections:
 
 4. **Code Implementations**:
    - Practical code snippets and projects based on GNN models and applications.
-   - I’ll upload:
-     - My implementations of GNN algorithms.
 
 ---
 
